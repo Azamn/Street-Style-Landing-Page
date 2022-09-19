@@ -1,6 +1,6 @@
 # Hey Welcome 
 
-This is Azam Shaikh. I'm a laravel backend Developer, and  Passionate to become a Full Stack Developer.
+I'm Azam Shaikh, a laravel backend Developer, and Passionate to become a Full Stack Developer.
 
 ## Project Name : **Street Style Landing Page**
 
@@ -16,3 +16,11 @@ In this project i have created a Street Style landing page. And i have learnt a 
 ### My Project is looking like :
 
 ![Web Site Image](./Screenshot/street_style_landing_page.png)
+
+## Time taken to finish this project
+
+![4 Hours](https://img.shields.io/badge/-4%20Hours-orange)
+
+### You can Check it Live on Below Link :
+
+[Live Link !]()
