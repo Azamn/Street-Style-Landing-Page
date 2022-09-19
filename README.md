@@ -15,4 +15,4 @@ In this project i have created a Street Style landing page. And i have learnt a 
 
 ### My Project is looking like :
 
-![Web Site Image](./screenshot/)
+![Web Site Image](./Screenshot/street_style_landing_page.png)
